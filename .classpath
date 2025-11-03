@@ -14,5 +14,7 @@
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
 	<classpathentry kind="lib" path="C:/Users/athira/Downloads/sqljdbc_13.2/enu/jars/mssql-jdbc-13.2.1.jre11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/athira/Downloads/json-20250517.jar"/>
+	<classpathentry kind="lib" path="C:/Users/athira/.m2/repository/jakarta/servlet/jakarta.servlet-api/6.0.0/jakarta.servlet-api-6.0.0.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>

@@ -9,11 +9,11 @@ public class SessionListener implements HttpSessionListener {
 
     @Override
     public void sessionCreated(HttpSessionEvent event) {
-        System.out.println("✅ New session created: " + event.getSession().getId());
+        System.out.println("New session created: " + event.getSession().getId());
     }
 
     @Override
     public void sessionDestroyed(HttpSessionEvent event) {
-        System.out.println("❌ Session destroyed: " + event.getSession().getId());
+        System.out.println("Session destroyed: " + event.getSession().getId());
     }
 }
